@@ -88,11 +88,11 @@ mvn spring-boot:run
 ## API Endpoints of both microservices
 
 ### OrderService 
-POST /orders : Create a new order
-GET /orders/{id} : Retrieve order details by ID.
+- POST /orders : Create a new order
+- GET /orders/{id} : Retrieve order details by ID.
 
 ### InventoryService 
-GET /inventory/{productId} : Retrieve inventory details by product ID.
+- GET /inventory/{productId} : Retrieve inventory details by product ID.
 
 ### Testing 
 
