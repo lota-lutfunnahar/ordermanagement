@@ -10,7 +10,7 @@ This project consists two microservices, **OrderService** and **InventoryService
 
 ## Dependencies 
 - spring boot web
-- spring boot JPA
+- spring boot JPA 
 - spring boot H2 database
 - spring boot test
 - mokito // for test code
