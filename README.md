@@ -1,6 +1,6 @@
 # Order Management
 ## Project Overview
-This project consists two microservices, **OrderService** and **InventoryService** for manage orders and inventory. These microservices connect via Kafka order creation and inventory updates.
+This project consists two microservices, **OrderService** and **InventoryService** for manage orders and inventory. These microservices connect via Kafka order creation and inventory updates. 
 
 ## Requirements
 - Java 17
