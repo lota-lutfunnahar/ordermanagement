@@ -8,7 +8,7 @@ This project consists two microservices, **OrderService** and **InventoryService
 - Spring boot
 - Kafka
 
-## Dependencies 
+## Dependencies  
 - spring boot web
 - spring boot JPA 
 - spring boot H2 database
